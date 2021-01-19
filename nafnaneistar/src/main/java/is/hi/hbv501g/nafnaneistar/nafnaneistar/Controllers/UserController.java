@@ -149,8 +149,8 @@ public class UserController {
      * @param result manages the retrieval of validation errors
      * @param model manages the data for the viewing template
      * @return signup template
-     */
-
+     */ 
+ 
      /**
       * Populates the model with data and saves changes of linked partners
       * @param email String
